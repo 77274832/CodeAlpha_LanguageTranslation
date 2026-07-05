@@ -15,4 +15,4 @@ This project is a Language Translation Tool developed using Python and Tkinter.
 - deep-translator
 
 ## Developed By
-Shree Mathi
+Shreemathi
